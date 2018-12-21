@@ -1,3 +1,10 @@
+# Main files
+ * approver.js : contains all API methods
+ * Util.js : contains all utilities and libraries
+ * config.js : webtoken generator secret
+ 
+
+
 # Instructions to complete the assigment.
 
 ## Prerequisites installations
