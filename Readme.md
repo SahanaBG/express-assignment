@@ -23,7 +23,6 @@ Create a Pull request for the fork.
 > Note : Any PR to merge branch will not be entertained
 
 # Assignment List
-* [Service Status (Beginner)](./Assignment-1.md)
 * [Approval System (Intermediate)](./Assignment-2.md)
 
 # Instructions for the Assigment
